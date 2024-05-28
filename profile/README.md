@@ -1,6 +1,5 @@
 # We are Hansei Idiots
 
-Link: 
 > ### Team Members🧑‍💻
 > `권기현(Kwon Kihyun)` |
 > `임수민(Lim soomin)` |
