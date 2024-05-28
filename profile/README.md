@@ -1,5 +1,5 @@
 > ---
-> <img src="/imgs/hansei.png" width="20" height="20" alt="insta"></img> ### **We are Hansei Idiots** <img src="/imgs/hansei.png" width="20" height="20" alt="insta"></img>
+> <img src="/imgs/hansei.png" width="30" height="30" alt="insta"></img> **We are Hansei Idiots** <img src="/imgs/hansei.png" width="30" height="30" alt="insta"></img>
 > ---
 >
 > ### Team Members 🧑‍💻
