@@ -7,8 +7,7 @@
 > `송지오(Song Zio)`
 > 
 > ---
-> ### Our Instagram
->
+> ### Our Instagram <img src="/imgs/insta.png" width="20" height="20" alt="insta"></img>
 > [권기현(Kwon Kihyun)](https://www.instagram.com/kl.hyun_/) |
 > [임수민(Lim Sooumin)](https://www.instagram.com/1m_daun/) |
 > [김정욱(Kim Jungwook)](https://www.instagram.com/co.ivex/) |
