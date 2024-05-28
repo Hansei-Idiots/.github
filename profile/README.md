@@ -1,5 +1,6 @@
-# We are Hansei Idiots
----
+> ---
+>  <img src="/imgs/insta.png" width="20" height="20" alt="insta"></img> ### **We are Hansei Idiots** <img src="/imgs/insta.png" width="20" height="20" alt="insta"></img>
+> ---
 > ### Team Members 🧑‍💻
 > `권기현(Kwon Kihyun)` |
 > `임수민(Lim soomin)` |
